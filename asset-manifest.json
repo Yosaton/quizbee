@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/quizbee/static/css/main.5958e9ee.chunk.css",
-    "main.js": "/quizbee/static/js/main.ea26b057.chunk.js",
-    "main.js.map": "/quizbee/static/js/main.ea26b057.chunk.js.map",
-    "runtime-main.js": "/quizbee/static/js/runtime-main.fb96dcd2.js",
-    "runtime-main.js.map": "/quizbee/static/js/runtime-main.fb96dcd2.js.map",
-    "static/js/2.ee439d6b.chunk.js": "/quizbee/static/js/2.ee439d6b.chunk.js",
-    "static/js/2.ee439d6b.chunk.js.map": "/quizbee/static/js/2.ee439d6b.chunk.js.map",
-    "index.html": "/quizbee/index.html",
-    "precache-manifest.9c9b76b08948603baae712c722150c23.js": "/quizbee/precache-manifest.9c9b76b08948603baae712c722150c23.js",
-    "service-worker.js": "/quizbee/service-worker.js",
-    "static/css/main.5958e9ee.chunk.css.map": "/quizbee/static/css/main.5958e9ee.chunk.css.map",
-    "static/js/2.ee439d6b.chunk.js.LICENSE.txt": "/quizbee/static/js/2.ee439d6b.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/quizbee/static/media/granite.c301831e.jpg"
+    "main.css": "/vetibros/static/css/main.4cdb80c0.chunk.css",
+    "main.js": "/vetibros/static/js/main.ea26b057.chunk.js",
+    "main.js.map": "/vetibros/static/js/main.ea26b057.chunk.js.map",
+    "runtime-main.js": "/vetibros/static/js/runtime-main.846ff067.js",
+    "runtime-main.js.map": "/vetibros/static/js/runtime-main.846ff067.js.map",
+    "static/js/2.ee439d6b.chunk.js": "/vetibros/static/js/2.ee439d6b.chunk.js",
+    "static/js/2.ee439d6b.chunk.js.map": "/vetibros/static/js/2.ee439d6b.chunk.js.map",
+    "index.html": "/vetibros/index.html",
+    "precache-manifest.54bd1359903f877d60501c89ea1f27ca.js": "/vetibros/precache-manifest.54bd1359903f877d60501c89ea1f27ca.js",
+    "service-worker.js": "/vetibros/service-worker.js",
+    "static/css/main.4cdb80c0.chunk.css.map": "/vetibros/static/css/main.4cdb80c0.chunk.css.map",
+    "static/js/2.ee439d6b.chunk.js.LICENSE.txt": "/vetibros/static/js/2.ee439d6b.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/vetibros/static/media/granite.c301831e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb96dcd2.js",
+    "static/js/runtime-main.846ff067.js",
     "static/js/2.ee439d6b.chunk.js",
-    "static/css/main.5958e9ee.chunk.css",
+    "static/css/main.4cdb80c0.chunk.css",
     "static/js/main.ea26b057.chunk.js"
   ]
 }
