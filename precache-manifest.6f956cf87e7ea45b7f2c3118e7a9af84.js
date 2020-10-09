@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c092d7c62f1342197a7d20318b46cd0",
+    "revision": "7e97456754c0545d3744a1d3edc80c46",
     "url": "/vetibros/index.html"
   },
   {
-    "revision": "e12db78d086e99aeb007",
-    "url": "/vetibros/static/css/main.4cdb80c0.chunk.css"
+    "revision": "96b66832df87f059dbb5",
+    "url": "/vetibros/static/css/main.0e42ea68.chunk.css"
   },
   {
     "revision": "bd4bde72137969b3ae52",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vetibros/static/js/2.ee439d6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e12db78d086e99aeb007",
-    "url": "/vetibros/static/js/main.252bffe2.chunk.js"
+    "revision": "96b66832df87f059dbb5",
+    "url": "/vetibros/static/js/main.6ef0e302.chunk.js"
   },
   {
     "revision": "707a645cdeb4644ba091",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vetibros/precache-manifest.447a2cd8d7a5546c64d96b240db1ddd9.js"
+  "/vetibros/precache-manifest.6f956cf87e7ea45b7f2c3118e7a9af84.js"
 );
 
 self.addEventListener('message', (event) => {
