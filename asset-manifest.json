@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vetibros/static/css/main.0e42ea68.chunk.css",
+    "main.css": "/vetibros/static/css/main.a11ec758.chunk.css",
     "main.js": "/vetibros/static/js/main.6ef0e302.chunk.js",
     "main.js.map": "/vetibros/static/js/main.6ef0e302.chunk.js.map",
     "runtime-main.js": "/vetibros/static/js/runtime-main.846ff067.js",
@@ -8,16 +8,16 @@
     "static/js/2.ee439d6b.chunk.js": "/vetibros/static/js/2.ee439d6b.chunk.js",
     "static/js/2.ee439d6b.chunk.js.map": "/vetibros/static/js/2.ee439d6b.chunk.js.map",
     "index.html": "/vetibros/index.html",
-    "precache-manifest.6f956cf87e7ea45b7f2c3118e7a9af84.js": "/vetibros/precache-manifest.6f956cf87e7ea45b7f2c3118e7a9af84.js",
+    "precache-manifest.142315dc104bad5308de0a39992ec6b1.js": "/vetibros/precache-manifest.142315dc104bad5308de0a39992ec6b1.js",
     "service-worker.js": "/vetibros/service-worker.js",
-    "static/css/main.0e42ea68.chunk.css.map": "/vetibros/static/css/main.0e42ea68.chunk.css.map",
+    "static/css/main.a11ec758.chunk.css.map": "/vetibros/static/css/main.a11ec758.chunk.css.map",
     "static/js/2.ee439d6b.chunk.js.LICENSE.txt": "/vetibros/static/js/2.ee439d6b.chunk.js.LICENSE.txt",
     "static/media/style.css": "/vetibros/static/media/granite.c301831e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.846ff067.js",
     "static/js/2.ee439d6b.chunk.js",
-    "static/css/main.0e42ea68.chunk.css",
+    "static/css/main.a11ec758.chunk.css",
     "static/js/main.6ef0e302.chunk.js"
   ]
 }
