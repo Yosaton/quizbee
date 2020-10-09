@@ -3,20 +3,15 @@ import React, { useState } from "react";
 const TitleScreen = ({ selectedCharacter, changeBackground }) => {
   const [character, setCharacter] = useState("");
 
-  const maw =
-    "http://www.avatarsinpixels.com/chibi/eyJIYWlyTG93ZXIiOiIzIiwiU29ja3MiOiIxIiwiUGFudHMiOiIxMCIsIlRvcCI6IjE5IiwiRXllYnJvd3MiOiIxIiwiRXllcyI6IjExIiwiTW91dGgiOiIxNiIsIkhhaXJUb3AiOiI1Iiwic2tpblRvbmUiOiJmOGQyYjkiLCJoYWlyVG9uZSI6ImNmMjUyNSIsImV5ZXNUb25lIjoiOWI1NDI1IiwicGFudHNUb25lIjoiYjAzMWJhIiwidG9wVG9uZSI6Ijg3MDBlZiJ9/1/show.png";
+  const maw = require("../assets/maw.png");
 
-  const isara =
-    "http://www.avatarsinpixels.com/chibi/eyJTb2NrcyI6IjEiLCJFeWVicm93cyI6IjEiLCJFeWVzIjoiNiIsIk1vdXRoIjoiMjEiLCJIYWlyVG9wIjoiMyIsImhhaXJUb25lIjoiNDUyMTE3IiwiZXllc1RvbmUiOiI2ZTM0MjQifQ==/1/show.png";
+  const isara = require("../assets/isara.png");
 
-  const skeeter =
-    "http://www.avatarsinpixels.com/chibi/eyJTaG9lcyI6IjQiLCJQYW50cyI6IjEwIiwiVG9wIjoiNSIsIkV5ZWJyb3dzIjoiMSIsIkV5ZXMiOiI3IiwiTW91dGgiOiIxMyIsIkhhaXJUb3AiOiI2IiwiaGFpclRvbmUiOiIzZDFmMTUiLCJleWVzVG9uZSI6IjU0MjQxNCIsInBhbnRzVG9uZSI6ImJjNjcyZiIsInBhbnRzVG9uZTIiOiJiYzY3MmYiLCJ0b3BUb25lIjoiNjBjYjVlIn0=/1/show.png";
+  const skeeter = require("../assets/skeeter.png");
 
-  const sharon =
-    "http://www.avatarsinpixels.com/chibi/eyJIYWlyTG93ZXIiOiIzIiwiU2hvZXMiOiIyIiwiUGFudHMiOiIxIiwiVG9wIjoiMyIsIkV5ZXMiOiI4IiwiTW91dGgiOiIxMSIsIkhhaXJUb3AiOiI4IiwiaGFpclRvbmUiOiJhYTRkMTAiLCJleWVzVG9uZSI6ImFhNGQxMCIsInBhbnRzVG9uZTIiOiJmZmZmZmYiLCJzaG9lc1RvbmUiOiJmZmZmZmYifQ==/1/show.png";
+  const sharon = require("../assets/sharon.png");
 
-  const aaron =
-    "http://www.avatarsinpixels.com/chibi/eyJTaG9lcyI6IjEiLCJQYW50cyI6IjIiLCJUb3AiOiIxNSIsIkV5ZXMiOiI0IiwiTW91dGgiOiI0IiwiSGFpclRvcCI6IjEiLCJoYWlyVG9uZSI6ImQxNWYxNCIsInBhbnRzVG9uZSI6ImYxYTI2ZSIsInBhbnRzVG9uZTIiOiJmMWEyNmUiLCJ0b3BUb25lIjoiNjdhNjI4IiwidG9wVG9uZTIiOiI2N2E2MjgifQ==/1/show.png";
+  const aaron = require("../assets/aaron.png");
 
   return (
     <div className="container-character-selection">
