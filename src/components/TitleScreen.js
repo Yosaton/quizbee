@@ -4,13 +4,9 @@ const TitleScreen = ({ selectedCharacter, changeBackground }) => {
   const [character, setCharacter] = useState("");
 
   const maw = require("../assets/maw.png");
-
   const isara = require("../assets/isara.png");
-
   const skeeter = require("../assets/skeeter.png");
-
   const sharon = require("../assets/sharon.png");
-
   const aaron = require("../assets/aaron.png");
 
   return (

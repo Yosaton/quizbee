@@ -25,9 +25,11 @@ const BackgroundSong = ({ imgIndex }) => {
   }, [song]);
 
   return (
-    <audio controls id="bgAudio" autoPlay="autoPlay">
-      <source src={song} type="audio/mpeg"></source>
-    </audio>
+    <div className="audio-player">
+      <audio controls id="bgAudio" autoPlay="autoPlay">
+        <source src={song} type="audio/mpeg"></source>
+      </audio>
+    </div>
   );
 };
 

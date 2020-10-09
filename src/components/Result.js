@@ -34,11 +34,12 @@ const Result = ({ score, playAgain, chosenCharacter }) => {
   return (
     <div>
       <div className="score-board">
-        <audio controls autoPlay="autoPlay">
-          <source src={victorySong} type="audio/mpeg"></source>
-        </audio>
+        <div className="audio-player">
+          <audio controls autoPlay="autoPlay">
+            <source src={victorySong} type="audio/mpeg"></source>
+          </audio>
+        </div>
         <div className="score">You scored {score} / 5 correct answers!</div>
-
         <div className="score-2">
           {localStorageScores
             .sort((a, b) => b.score - a.score) //display scores descending
